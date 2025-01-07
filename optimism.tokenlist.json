@@ -10786,6 +10786,19 @@
       }
     },
     {
+      "chainId": 1750,
+      "address": "0xBCFc435d8F276585f6431Fc1b9EE9A850B5C00A9",
+      "name": "Metal DAO",
+      "symbol": "MTL",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/MTL/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "opListId": "extended",
+        "opTokenId": "MTL"
+      }
+    },
+    {
       "chainId": 1,
       "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
       "name": "MetalSwap",
